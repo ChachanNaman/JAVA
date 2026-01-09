@@ -1,6 +1,6 @@
 //Boolean -> < , > , >= , <= , == , != 
 
-public class RelationalOperators7{
+public class RelationalOperators2{
 
     public static void main(String j[]){
 

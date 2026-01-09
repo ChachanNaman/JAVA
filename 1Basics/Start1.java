@@ -5,7 +5,7 @@
 // JVM is inside of JRE(Java Runtime Environment)
 // Layers : Hardware -> OS -> JRE -> JVM -> ByteCode runs
 
-public class First {
+public class Start1 {
     public static void main(String[] args) {
         System.out.println("Hello Naman");
     }
