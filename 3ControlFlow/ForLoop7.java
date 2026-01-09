@@ -1,4 +1,4 @@
-public class ForLoop5{
+public class ForLoop7{
 
     public static void main(String a[]){
         
