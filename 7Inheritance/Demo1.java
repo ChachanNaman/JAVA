@@ -12,3 +12,5 @@ public class Demo1{
         System.out.println(r1 + " : " + r2 + " : " + r3 + " : " + r4 + " : " + r5);
     }
 }
+
+//hello java
