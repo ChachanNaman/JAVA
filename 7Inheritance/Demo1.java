@@ -5,10 +5,10 @@ public class Demo1{
         AdvCalc4 obj = new AdvCalc4();
         int r1 = obj.add(2,3);
         int r2 = obj.sub(4,3);
-        int r3 = obj.mul(2,3);
-        int r4 = obj.div(3,3);
-        double r5 = obj.power(4,2);
-
+        int r3 = obj.mul(2,3);  //multilevel
+        int r4 = obj.div(3,3);  //multilevel
+        double r5 = obj.power(4,2);     //multilevel
+        //Java doesnt supports multiple inheritance 
         System.out.println(r1 + " : " + r2 + " : " + r3 + " : " + r4 + " : " + r5);
     }
 }
