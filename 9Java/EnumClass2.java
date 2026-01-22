@@ -15,7 +15,7 @@ enum laptop{
     public int getPrices() {
         return prices;
     }
-
+    
     public void setPrices(int prices) {
         this.prices = prices;
     }
