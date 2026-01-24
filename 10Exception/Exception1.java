@@ -9,7 +9,7 @@ public class Exception1 {
             j = 18/i;
         }
         catch(Exception e){
-            System.out.println("Its okay !");
+            System.out.println("Its okay !" + e);
         }
         
         System.out.println(i);
