@@ -1,7 +1,7 @@
 /*
 we can use runnable interface to create thread instead of by extending from Thread
 for runnable i have to create object from Runnable
-and then passing that object to Thread class constructor
+and then passing that object to Thread class constructor ----
 and then call start method on thread class object coz start method is of thread not of runnable class
 */
 class A implements Runnable{
