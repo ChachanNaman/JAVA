@@ -1,5 +1,5 @@
 public class Array2D4{
-
+//₹'ikn
     public static void main(String a[]){
         int nums[][] = new int[3][4];
 
