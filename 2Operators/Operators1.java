@@ -2,7 +2,7 @@ public class Operators1{
 
     public static void main(String j[]){
 
-        //Operators : uujnnnejeje
+        //Operators : uujnnnejejejjjj
 
             int num = 7;
             
